@@ -8,6 +8,8 @@ Birleştirilen görüntü üzerinde, operatör tarafından arayüz üzerinden ta
 (Region of Interest) kullanılarak parçaların varlığı, pozisyonu ve eksiklikleri denetlenir.
 
 ---
+<img width="1035" height="469" alt="Ekran Resmi 2025-11-05 19 22 39" src="https://github.com/user-attachments/assets/24d5b156-599a-4946-9351-12acda585d67" />
+
 
 ## ⚙️ Teknik Özellikler
 
